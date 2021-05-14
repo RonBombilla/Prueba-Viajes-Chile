@@ -12,6 +12,24 @@ body {
     background-color: black;
 }
 
+
+/*Mod de barra de navegación*/
+
+#navbar {
+    opacity: 0.8;
+    border-radius: 5px;
+}
+
+.box {
+    -webkit-transition: background-color 1s ease-out;
+    -moz-transition: background-color 1s ease-out;
+    -o-transition: background-color 1s ease-out;
+    transition: background-color 1s ease-out;
+}
+
+
+/*Fin Mod*/
+
 .favicom {
     color: aliceblue;
     width: 100%;
